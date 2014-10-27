@@ -1,4 +1,5 @@
 leetcode
 ========
 
-my leetcode solution
+my leetcode solutions (C++ & Python)
+
